@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A81E4A1FC0FFF6A9707DB8423B449349B99953C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "064550CFB3AC2BAD68176267279B1E843ECC8A73" : 9223372036854775807,
+    "A81E4A1FC0FFF6A9707DB8423B449349B99953C9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B902D637-2344-4AF4-B2A3-19333F531971",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "064550CFB3AC2BAD68176267279B1E843ECC8A73" : "",
+    "A81E4A1FC0FFF6A9707DB8423B449349B99953C9" : "Temperature_Conversion\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Temp_Conversion",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Temp_Conversion\/Temp_Conversion.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rocky-Labs\/Milieu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "064550CFB3AC2BAD68176267279B1E843ECC8A73"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rocky-Labs\/Temperature_Conversion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A81E4A1FC0FFF6A9707DB8423B449349B99953C9"
+    }
+  ]
+}
